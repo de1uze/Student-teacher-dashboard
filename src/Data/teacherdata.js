@@ -1,23 +1,23 @@
 export const Teacher_data = [
     {
         id : "100",
-        name : "Sanjay",
-        batch : "B43WD",
-        email : "sanjay@gmail.com",
+        name : "Gopi",
+        batch : "B41WE",
+        email : "Gopi@gmail.com",
         Exp : 2,
     },
     {
         id : "101",
-        name : "Akbarbasha",
-        batch : "B43WD",
-        email : "akbar@gmail.com",
+        name : "Santosh",
+        batch : "B41W3",
+        email : "santosh@gmail.com",
         Exp : 1,
     },
     {
         id : "102",
-        name : "deepika",
-        batch : "B43WD",
-        email : "deepika@gmail.com",
+        name : "Kirti",
+        batch : "B41WE",
+        email : "kirti@gmail.com",
         Exp : 2,
     },
 ]
